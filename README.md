@@ -16,3 +16,5 @@ sudo python3 (file location)
 (you can get the location by going in file explorer and dragging and dropping da file)
 
 And after that it should work :D
+
+All credits belong to Hack-BitGod
