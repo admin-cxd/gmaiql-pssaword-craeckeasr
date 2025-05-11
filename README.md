@@ -4,10 +4,14 @@ This is the fixed version of bitgod's gmail cracker. All credits belong to them,
 Instirctions
 
 In kaeli lienuex open note pad
+
 Paste code in
+
 Name it whatever youwant but add a .py on the end
+
 On terminal or root terminal do:
-sudo python3 <file location>
+
+sudo python3 (file location)
 
 (you can get the location by going in file explorer and dragging and dropping da file)
 
